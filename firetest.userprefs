@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{017CB25D-9231-40ED-BC41-2879EE2D392B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="firetest/Program.cs">
+    <Files>
+      <File FileName="firetest/Program.cs" Line="46" Column="21" />
+      <File FileName="firetest/Editor.cs" Line="5" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.firetest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
